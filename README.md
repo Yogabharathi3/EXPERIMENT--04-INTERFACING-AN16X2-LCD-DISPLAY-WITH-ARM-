@@ -173,7 +173,7 @@ https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
 
 
 ## STM 32 CUBE PROGRAM :
-
+```
 #include "main.h"
 #include"lcd.h"
 
@@ -189,7 +189,7 @@ https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
       Lcd_cursor(&lcd, 1,1);
       Lcd_string(&lcd, "YOGABHARATHI");
 
-
+```
 
 ## Output screen shots of proteus  :
  ![exp4 pmc](https://github.com/Yogabharathi3/EXPERIMENT--04-INTERFACING-AN16X2-LCD-DISPLAY-WITH-ARM-/assets/118899387/7e9da4e3-8c45-4cff-83d7-8394ed1eb79e)
